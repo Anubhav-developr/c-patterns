@@ -19,6 +19,9 @@ int s=1;
        {    cout<<" ";
             s=1;
         }
+    }
+   cout<<"\n";
+   }
 getch();
 
 }
