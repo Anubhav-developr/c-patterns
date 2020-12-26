@@ -1,5 +1,5 @@
 # c++11patterns
-//c++ program to execute simole pattern
+//c++ program to execute simple pattern
 
 
 #include<iostream.h>
